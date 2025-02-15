@@ -1,0 +1,16 @@
+﻿author,year,authoryear,cases,total,discipline,comparison,sampleyear
+Goodman,1994,Goodman1994,4,111,General Medicine,submitted vs published,1992 to 1993
+Abby,1994,Abby1994,23,48,Surgery,rejected vs published in another journal,1989 to 1992
+Pierie,1996,Pierie1996,3,50,General Medicine,submitted vs published,1994
+Arnau,2003,Arnau2003,7,43,Internal Medicine,submitted vs published,2000 to 2001
+Hopewell,2014,Hopewell2014,7,93,Clinical Trials,submitted vs last revised,2012
+Anazco,2020,Anazco2020,11,23,Life and Medicine,first preprinted vs published,2020
+Lin,2020,Lin2020,16184,141961,Physical (arXiv),preprinted vs published,2008 to 2017
+Pagliaro,2021,Pagliaro2021,1,10,Chemistry,first preprinted vs published,2018 to 2020
+Bero,2021,Bero2021,20,67,COVID 19 Medicine,first preprinted vs published,2020
+Hitoshi,2021,Hitoshi2021,1984,7929,Life (bioRxiv),first preprinted vs published,2019
+Stephen,2022,Stephen2022,16,22,Social Science,last preprinted vs published,2016 to 2021
+Gehanno,2022,Gehanno2022,47,124,Medicine,last preprinted vs published,2020 to 2021
+Spungen,2023,Spungen2023,4,161,COVID 19 Medical RCTs,last preprinted vs published,2020 to 2022
+Morin,2023,Morin2023,6,21,COVID 19 Pharmacotherapy studies,preprinted vs published,2020 to 2022
+Peng,2023,Peng2023,2314,3740,Life (bioRxiv),first preprinted vs published,2013 to 2019
