@@ -1,7 +1,7 @@
 ﻿author,year,authoryear,cases,total,discipline,comparison,sampleyear
 Abby,1994,Abby1994,12,48,Surgery,rejected vs published in another journal,1989 to 1992
 Hopewell,2014,Hopewell2014,6,93,Clinical Trials,submitted vs last revised,2012
-Anazco,2020,Anazco2020,11,23,Life and Medicine (bio/medRxiv),first preprinted vs published,2020
+Anazco,2020,Anazco2020,3,23,Life and Medicine (bio/medRxiv),first preprinted vs published,2020
 Bero,2021,Bero2021,18,67,COVID 19 (medRxiv),first preprinted vs published,2020
 Hitoshi,2021,Hitoshi2021,1431,7929,Life (bioRxiv),first preprinted vs published,2019
 Shi,2021,Shi2021,11,47,Medicine (medRxiv),last preprinted vs published,2019 to 2020
