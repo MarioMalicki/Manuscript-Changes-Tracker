@@ -1,0 +1,15 @@
+﻿author,year,authoryear,cases,total,discipline,comparison,sampleyear
+Pierie,1996,Pierie1996,4,50,General Medicine,submitted vs published,1994
+Hopewell,2014,Hopewell2014,19,93,Clinical Trials (BMC),submitted vs last revised,2012
+Strang,2015,Strang2015,7,38,Organisation Studies,submitted vs published,2005 to 2009
+Hopewell,2018,Hopewell2018,83,258,Clinical Trials,submitted vs published,2014 to 2015
+Anazco,2020,Anazco2020,11,23,Life and Medicine (bio/medRxiv),first preprinted vs published,2020
+Oikonomidi,2020,Oikonomidi2020,25,66,COVID 19 (medRxiv),first preprinted vs published,2020
+Bero,2021,Bero2021,23,67,COVID 19 (medRxiv),first preprinted vs published,2020
+Pagliaro,2021,Pagliaro2021,1,10,Chemistry (ChemRxiv/Preprints.org),first preprinted vs published,2018 to 2020
+Shi,2021,Shi2021,12,37,Medicine (medRxiv),last preprinted vs published,2019 to 2020
+Nelson,2022,Nelson2022,36,100,"Multiple (ArXiv, bio/medRxiv)",first preprinted vs published,2020
+Zeraatkar,2022,Zeraatkar2022,31,74,Medicine (Multiple servers),first preprinted vs published,2020 to 2021
+Bai,2023,Bai2023,38,119,Medicine (Multiple servers),first preprinted vs published,2021 to 2022
+Davidson,2024,Davidson2024,28,109,COVID 19 RCTs (medRxiv),first preprinted vs published,2020 to 2022
+Sterian,2024,Sterian2024,32,60,Mpox (medRxiv),first preprinted vs published,2022 to 2024
