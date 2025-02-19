@@ -1,0 +1,9 @@
+﻿author,year,authoryear,cases,total,discipline,comparison,sampleyear
+Pierie,1996,Pierie1996,1,50,General Medicine,submitted vs published,1994
+Hopewell,2014,Hopewell2014,0,93,Clinical Trials (BMC),submitted vs last revised,2012
+Janda,2022,Janda2022,21,547,Medicine (medRxiv),last preprinted vs published,2020
+Bai,2023,Bai2023,2,119,COVID 19 (Multiple servers),first preprinted vs published,2021 to 2022
+Morin,2023,Morin2023,1,21,COVID 19 (bio/medRxiv/Research Square),preprinted vs published,2020 to 2022
+Sommer,2023,Sommer2023,5,161,Preventive Medicine (medRxiv),first preprinted vs published,2020 to 2021
+Davidson,2024,Davidson2024,0,109,COVID 19 RCTs (medRxiv),first preprinted vs published,2020 to 2022
+Sterian,2024,Sterian2024,3,60,Mpox (medRxiv),first preprinted vs published,2022 to 2024
