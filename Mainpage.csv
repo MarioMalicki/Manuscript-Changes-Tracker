@@ -1,0 +1,12 @@
+grouping,parent,percentage,lowerci,upperci,order
+Title,,24,14,36,1
+Authorship,,21,17,25,2
+Abstract Conclusions,,6,1,16,3
+Sample Size,,10,6,15,4
+Sample Size Calculation,,7,3,12,5
+Numerical Results,,31,26,37,6
+Statistical Significance,,7,3,12,7
+Study Conclusions,,2,1,4,8
+Limitations,,19,7,35,9
+Conflict of Interest Declaration,,26,17,36,10
+Funding Declaration,,18,9,28,11
