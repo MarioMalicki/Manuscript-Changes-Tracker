@@ -1,11 +1,29 @@
-﻿author,year,authoryear,cases,total,discipline,comparison,sampleyear
-Abby,1994,Abby1994,12,48,Surgery,rejected vs published in another journal,1989 to 1992
-Hopewell,2014,Hopewell2014,6,93,Clinical Trials,submitted vs last revised,2012
-Anazco,2020,Anazco2020,3,23,Life and Medicine (bio/medRxiv),first preprinted vs published,2020
-Bero,2021,Bero2021,18,67,COVID 19 (medRxiv),first preprinted vs published,2020
-Hitoshi,2021,Hitoshi2021,1431,7929,Life (bioRxiv),first preprinted vs published,2019
-Shi,2021,Shi2021,11,47,Medicine (medRxiv),last preprinted vs published,2019 to 2020
-Brierley,2022,Brierley2022,27,184,Life and Medicine  (bio/medRxiv),first preprinted vs published,2019 to 2020
-Itani,2022,Itani2022,60,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021
-Tefft,2023,Tefft2023,98,395,Dermatology  (bio/medRxiv),first preprinted vs published,2013 to 2021
-Sterian,2024,Sterian2024,14,60,Mpox (medRxiv),first preprinted vs published,2022 to 2024
+author,year,authoryear,cases,total,discipline,comparison,sampleyear,outcome,grouping
+Abby,1994,Abby1994,12,48,Surgery,rejected vs published in another journal,1989 to 1992,sequence,
+Abby,1994,Abby1994,12,48,Surgery,rejected vs published in another journal,1989 to 1992,sequence,Order of Authors
+Hopewell,2014,Hopewell2014,6,93,Clinical Trials,submitted vs last revised,2012,number,
+Hopewell,2014,Hopewell2014,6,93,Clinical Trials,submitted vs last revised,2012,number,Number of authors
+Anazco,2020,Anazco2020,3,23,Life and Medicine (bio/medRxiv),first preprinted vs published,2020,unknown,
+Bero,2021,Bero2021,18,67,COVID 19 (medRxiv),first preprinted vs published,2020,number or order or spelling,
+Bero,2021,Bero2021,10,67,COVID 19 (medRxiv),first preprinted vs published,2020,number or order or spelling,Number of authors
+Bero,2021,Bero2021,6,67,COVID 19 (medRxiv),first preprinted vs published,2020,number or order or spelling,Order of Authors
+Bero,2021,Bero2021,2,67,COVID 19 (medRxiv),first preprinted vs published,2020,number or order or spelling,Spelling of Author Names
+Hitoshi,2021,Hitoshi2021,1431,7929,Life (bioRxiv),first preprinted vs published,2019,number,
+Hitoshi,2021,Hitoshi2021,1431,7929,Life (bioRxiv),first preprinted vs published,2019,number,Number of authors
+Shi,2021,Shi2021,11,47,Medicine (medRxiv),last preprinted vs published,2019 to 2020,number and first and last,
+Shi,2021,Shi2021,11,47,Medicine (medRxiv),last preprinted vs published,2019 to 2020,number and first and last,Number of authors
+Shi,2021,Shi2021,1,47,Medicine (medRxiv),last preprinted vs published,2019 to 2020,number and first and last,First and Last Authors   
+Brierley,2022,Brierley2022,27,184,Life and Medicine  (bio/medRxiv),first preprinted vs published,2019 to 2020,added removed corresponding,
+Brierley,2022,Brierley2022,22,184,Life and Medicine  (bio/medRxiv),first preprinted vs published,2019 to 2020,added removed corresponding,Number of authors
+Brierley,2022,Brierley2022,22,184,Life and Medicine  (bio/medRxiv),first preprinted vs published,2019 to 2020,added removed corresponding,Corresponding authors
+Itani,2022,Itani2022,84,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,
+Itani,2022,Itani2022,47,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,Authors added
+Itani,2022,Itani2022,6,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,Authors removed
+Itani,2022,Itani2022,53,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,Number of authors
+Itani,2022,Itani2022,3,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,First Author
+Itani,2022,Itani2022,4,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,Last Author
+Itani,2022,Itani2022,24,200,Life and Medicine  (bio/medRxiv),first preprinted vs published,2020 to 2021,added removed corresponding first last,Corresponding Author
+Tefft,2023,Tefft2023,98,395,Dermatology  (bio/medRxiv),first preprinted vs published,2013 to 2021,number,
+Tefft,2023,Tefft2023,98,395,Dermatology  (bio/medRxiv),first preprinted vs published,2013 to 2021,number,Number of authors
+Sterian,2024,Sterian2024,14,60,Mpox (medRxiv),first preprinted vs published,2022 to 2024,number,
+Sterian,2024,Sterian2024,14,60,Mpox (medRxiv),first preprinted vs published,2022 to 2024,number,Number of authors
