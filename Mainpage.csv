@@ -1,7 +1,7 @@
 grouping,parent,percentage,lowerci,upperci,order,dataset,notes
 Title,,24,14,36,1,Title.csv,
 Authorship,,21,17,25,2,Authorship.csv,
-Number of Authors,Authorship,21,17,25,3,Authorship.csv,
+Number of Authors,Authorship,18,13,24,3,Authorship.csv,
 Abstract Conclusions,,6,1,16,4,Abstract.csv,"The included studies only looked at how conclusions were phrased in the abstracts."
 Sample Size,,10,6,15,5,Sample.csv,
 Sample Size Calculation,,6,3,12,6,SScalculation.csv,
