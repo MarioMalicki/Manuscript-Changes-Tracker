@@ -1,12 +1,13 @@
 grouping,parent,percentage,lowerci,upperci,order,dataset,notes
 Title,,24,14,36,1,Title.csv,
 Authorship,,21,17,25,2,Authorship.csv,
-Abstract Conclusions,,6,1,16,3,Abstract.csv,"The included studies only looked at how conclusions were phrased in the abstracts."
-Sample Size,,10,6,15,4,Sample.csv,
-Sample Size Calculation,,7,3,12,5,SScalculation.csv,
-Numerical Results,,31,26,37,6,Numerical.csv,"In this analysis we grouped studies that reported changes, additions or removals of any numerical values reported in the study.<br>Studies did not check whether added or removed numbers (pre-)existed in supplementary materials or were moved there."
-Statistical Significance,,7,3,12,7,Significance.csv,
-Study Conclusions,,2,1,4,8,Conclusions.csv,
-Limitations,,19,7,35,9,Limitations.csv,
-Conflict of Interest Declaration,,26,17,36,10,Conflict.csv,
-Funding Declaration,,18,9,28,11,Funding.csv,
+Number of Authors,Authorship,21,17,25,3,Authorship.csv,
+Abstract Conclusions,,6,1,16,4,Abstract.csv,"The included studies only looked at how conclusions were phrased in the abstracts."
+Sample Size,,10,6,15,5,Sample.csv,
+Sample Size Calculation,,6,3,12,5,SScalculation.csv,
+Numerical Results,,31,26,37,7,Numerical.csv,"In this analysis we grouped studies that reported changes, additions or removals of any numerical values reported in the study.<br>Studies did not check whether added or removed numbers (pre-)existed in supplementary materials or were moved there."
+Statistical Significance,,7,3,12,8,Significance.csv,
+Study Conclusions,,2,1,4,9,Conclusions.csv,
+Limitations,,19,7,35,10,Limitations.csv,
+Conflict of Interest Declaration,,26,17,36,11,Conflict.csv,
+Funding Declaration,,18,9,28,12,Funding.csv,
